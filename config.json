@@ -1,0 +1,17 @@
+{
+  "budget_fx_rates": {
+    "EUR": 1.0, "USD": 0.90, "GBP": 1.20, "PLN": 0.25, "SGD": 0.65, "BRL": 0.18, "JPY": 0.006
+  },
+  "actual_fx_rates": {
+    "EUR": 1.0, "USD": 0.88, "GBP": 1.18, "PLN": 0.23, "SGD": 0.62, "BRL": 0.16, "JPY": 0.0058
+  },
+  "contract_terms": {
+    "annual_escalation": 0.05,
+    "sla_threshold": 99.0,
+    "sla_penalty": 0.10
+  },
+  "fx_volatility_threshold": 0.03,
+  "stress_test": {
+    "currency_devaluation_pct": 0.10
+  }
+}
